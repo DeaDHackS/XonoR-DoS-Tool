@@ -526,7 +526,7 @@ while($packets > 0){
    } 
  $SIG{'INT'} = \&interrupt;
  sub interrupt {
- print "[!]Stopping UDP Flood attack...\n";
+ print "[!]Stopping HTTP Flood attack...\n";
  #
  sleep(2);
  print "[+]Done! Thanks for using XonoR!\n";
