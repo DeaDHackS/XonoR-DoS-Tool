@@ -11,6 +11,7 @@ Simply do perl xonor.pl -h you will see a lot of examples.
 XonoR has been updated, new banner, new features:
 
 IP Grabbing : --grab-ip : Grabs IP of a domain name if needed.
+
 HTTP Flood : HTTP Flood Attack (CAUSION)
 
 # WARNING!
