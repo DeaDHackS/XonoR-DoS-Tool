@@ -1,6 +1,12 @@
 # XonoR-DoS-Tool
 XonoR DoS Tool in Perl! TCP &amp; Flood Attacks
 
+# What is DoS and DDoS?
+Those attacks are different, DoS is one computer/hacker is generating requets
+and sending it to the target, which it what XonoR does.
+
+DDoS is when a botnet so more than 1 computer is flooding an target, a lot of people get confused and think its the same.
+
 # FEATURES
 XonoR is equiped with HTTP, TCP and UDP Flood attack!
 
